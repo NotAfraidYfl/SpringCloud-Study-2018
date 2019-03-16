@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;microservicecloud-provider-dept-8001/src/main/resources/mybatis/mapper/Dept.xml&apos; to &apos;DeptMapper.xml&apos;" description="Rename resource &apos;Dept.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/mybatis/mapper/Dept.xml" name="DeptMapper.xml" stamp="1550588982280" updateReferences="true"/>
+</session>
