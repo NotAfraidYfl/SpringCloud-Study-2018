@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="D:\javaJdkInstall" version="1.8.0_181">
+<libraryInfo home="D:\javaJdkInstall\jdk" version="1.8.0_181">
 <bootpath>
-<entry path="D:\javaJdkInstall\jre\lib\resources.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\rt.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\sunrsasign.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\jsse.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\jce.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\charsets.jar"/>
-<entry path="D:\javaJdkInstall\jre\lib\jfr.jar"/>
-<entry path="D:\javaJdkInstall\jre\classes"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\resources.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\rt.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\jsse.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\jce.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\charsets.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\jfr.jar"/>
+<entry path="D:\javaJdkInstall\jdk\jre\classes"/>
 </bootpath>
 <extensionDirs>
-<entry path="D:\javaJdkInstall\jre\lib\ext"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\ext"/>
 <entry path="C:\Windows\Sun\Java\lib\ext"/>
 </extensionDirs>
 <endorsedDirs>
-<entry path="D:\javaJdkInstall\jre\lib\endorsed"/>
+<entry path="D:\javaJdkInstall\jdk\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
 </libraryInfos>

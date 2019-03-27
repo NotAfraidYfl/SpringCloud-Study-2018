@@ -5,6 +5,8 @@
 <item elementID="=microservicecloud-api/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-consumer-dept-80/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-consumer-dept-80/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-consumer-dept-feign/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-consumer-dept-feign/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7001/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7001/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7002/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -17,12 +19,16 @@
 <item elementID="=microservicecloud-provider-dept-8002/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-provider-dept-8003/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-provider-dept-8003/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-provider-dept-hystrix-8001/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-provider-dept-hystrix-8001/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546656396627_1" label="Java Test Sources" name="test">
 <item elementID="=microservicecloud-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-api/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-consumer-dept-80/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-consumer-dept-80/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-consumer-dept-feign/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-consumer-dept-feign/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7001/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7001/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7002/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -35,17 +41,21 @@
 <item elementID="=microservicecloud-provider-dept-8002/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-provider-dept-8003/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-provider-dept-8003/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-provider-dept-hystrix-8001/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=microservicecloud-provider-dept-hystrix-8001/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546656466447_2" label="SpringCloud2018" name="SpringCloud2018">
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud" type="4"/>
-<item elementID="=microservicecloud-api" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-provider-dept-8001" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item elementID="=microservicecloud-consumer-dept-80" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8002" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8003" type="4"/>
 <item elementID="=microservicecloud-eureka-7001" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7002" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=microservicecloud-eureka-7003" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8002" type="4"/>
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-8003" type="4"/>
+<item elementID="=microservicecloud-consumer-dept-80" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-consumer-dept-feign" type="4"/>
+<item elementID="=microservicecloud-api" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservicecloud-provider-dept-hystrix-8001" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1546656473747_3" label="Window Working Set" name="Aggregate for window 1546656473747"/>
 </workingSetManager>

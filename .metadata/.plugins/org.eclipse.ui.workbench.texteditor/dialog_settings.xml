@@ -9,6 +9,7 @@
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
 			<item value="// TODO Auto-generated method stub"/>
+			<item value="@Override"/>
 			<item value="jetty"/>
 		</list>
 		<list key="replacehistory">

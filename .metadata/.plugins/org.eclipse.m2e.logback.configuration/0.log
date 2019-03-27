@@ -2846,3 +2846,1003 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-c
 2019-03-16 14:47:19,183 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-03-16 14:47:19,185 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-03-16 14:47:19,185 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:48,997 [Worker-51: Creating project "1212312312"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:1212312312:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\1212312312\pom.xml.
+2019-03-16 15:19:49,124 [Worker-51: Creating project "1212312312"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1212312312/src/main/java
+2019-03-16 15:19:49,125 [Worker-51: Creating project "1212312312"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1212312312/src/main/resources
+2019-03-16 15:19:49,133 [Worker-51: Creating project "1212312312"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /1212312312/src/test/java
+2019-03-16 15:19:49,134 [Worker-51: Creating project "1212312312"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /1212312312/src/test/resources
+2019-03-16 15:19:49,974 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:49,974 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:49,976 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:49,977 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:51,130 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\pom.xml.
+2019-03-16 15:19:51,450 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8001\pom.xml.
+2019-03-16 15:19:51,996 [Worker-46: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:52,159 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-80:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-80\pom.xml.
+2019-03-16 15:19:52,169 [Worker-46: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:52,290 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7001\pom.xml.
+2019-03-16 15:19:52,439 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7002\pom.xml.
+2019-03-16 15:19:52,553 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7003\pom.xml.
+2019-03-16 15:19:52,657 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api\pom.xml.
+2019-03-16 15:19:52,753 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8002\pom.xml.
+2019-03-16 15:19:52,763 [Worker-46: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:52,898 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8003\pom.xml.
+2019-03-16 15:19:52,908 [Worker-46: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:53,063 [Worker-46: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:1212312312:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\1212312312\pom.xml.
+2019-03-16 15:19:55,756 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:55,759 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:55,762 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:55,763 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:56,319 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:56,320 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:56,322 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:56,322 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:56,771 [Worker-52: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:56,805 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:56,806 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:56,807 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:56,807 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:57,240 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:57,241 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:57,243 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:57,243 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:57,666 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:57,666 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:57,667 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:57,668 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:58,109 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:58,110 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:58,112 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:58,112 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:58,819 [Worker-52: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:58,893 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:58,894 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:58,896 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:58,897 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:59,512 [Worker-52: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:19:59,588 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:59,588 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:19:59,591 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:19:59,591 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:20:00,267 [Worker-52: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:20:00,349 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:20:00,349 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:20:00,351 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:20:00,351 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:21:35,997 [Worker-4: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:31:52,238 [Worker-10: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:31:52,725 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:31:52,733 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:31:52,738 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:31:52,739 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:31:54,491 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:31:54,492 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:31:54,496 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:31:54,497 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:32:13,357 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:32:13,363 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:32:13,370 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:32:13,371 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:32:26,135 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:32:26,136 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:32:26,142 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:32:26,143 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:37:55,215 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:37:55,218 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:37:55,257 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:37:55,257 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:38:01,541 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:01,542 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:38:01,551 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:01,552 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:38:07,979 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:07,980 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 15:38:07,986 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:07,987 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:38:18,842 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:18,842 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 15:38:18,850 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:38:18,850 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:43:21,390 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:43:21,391 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 15:43:21,396 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:43:21,397 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:43:30,294 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:43:30,295 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 15:43:30,298 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:43:30,299 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:49:12,176 [Worker-36: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:49:15,869 [Worker-31: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:49:16,166 [Worker-31: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:49:20,471 [Worker-35: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:49:20,775 [Worker-35: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:49:20,998 [Worker-35: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:49:24,138 [Worker-36: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:49:24,651 [Worker-36: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:49:24,886 [Worker-36: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:50:01,995 [Worker-41: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 15:50:06,057 [Worker-34: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:50:06,145 [Worker-34: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:53:25,750 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:53:25,753 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:53:25,804 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:53:25,804 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:53:38,056 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:53:38,058 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:53:38,089 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:53:38,090 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:53:51,521 [Worker-34: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:53:51,681 [Worker-34: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:53:56,271 [Worker-37: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:53:56,485 [Worker-37: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:55:42,181 [Worker-37: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:55:42,343 [Worker-37: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:56:42,818 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:56:42,821 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:56:42,844 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:56:42,845 [Worker-45: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:56:46,898 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:56:46,899 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-16 15:56:46,916 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 15:56:46,916 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 15:57:01,817 [Worker-39: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:57:01,964 [Worker-39: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:57:08,457 [Worker-34: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 15:57:08,624 [Worker-34: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:42:53,731 [Worker-74: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 20:42:57,319 [Worker-73: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:42:57,575 [Worker-73: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:02,343 [Worker-74: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 20:43:02,742 [Worker-74: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:03,000 [Worker-74: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:07,099 [Worker-82: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 20:43:07,972 [Worker-82: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:08,340 [Worker-82: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:08,911 [Worker-74: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-16 20:43:12,599 [Worker-74: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 20:43:12,770 [Worker-74: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 21:22:41,922 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:22:41,924 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 21:22:41,948 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:22:41,950 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 21:22:47,880 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:22:47,884 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 21:22:47,889 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:22:47,889 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 21:42:57,802 [Worker-84: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 21:42:57,934 [Worker-84: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-16 21:47:39,487 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:47:39,488 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 21:47:39,505 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:47:39,505 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 21:47:54,489 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:47:54,490 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 21:47:54,498 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:47:54,498 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 21:48:19,579 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:48:19,579 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 21:48:19,582 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-16 21:48:19,583 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:49,469 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:49,485 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:49,501 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:49,501 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:52,389 [Worker-5: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 10:35:52,499 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:52,499 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 10:35:52,514 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:52,514 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:53,883 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:53,883 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 10:35:53,899 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:53,899 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:55,313 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:55,313 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 10:35:55,329 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:55,329 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:56,648 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:56,648 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 10:35:56,695 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:56,695 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:35:58,454 [Worker-5: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 10:35:58,657 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:58,659 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-17 10:35:58,668 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:35:58,668 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:36:00,444 [Worker-5: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 10:36:00,650 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:36:00,651 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-17 10:36:00,710 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:36:00,711 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:36:02,511 [Worker-5: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 10:36:02,711 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:36:02,711 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-17 10:36:02,727 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:36:02,727 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 10:37:40,031 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:37:40,035 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 10:37:40,039 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 10:37:40,039 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:11:18,853 [main] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 19:11:43,270 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:11:43,272 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 19:11:43,276 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:11:43,276 [Worker-179: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:12:13,457 [Worker-183: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:13,458 [Worker-183: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 19:12:13,462 [Worker-183: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:13,462 [Worker-183: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:12:14,880 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:14,881 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 19:12:14,885 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:14,886 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:12:30,277 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:30,277 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 19:12:30,281 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:12:30,282 [Worker-185: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:13:05,380 [Worker-171: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 19:13:08,763 [Worker-171: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:09,066 [Worker-171: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:17,450 [Worker-185: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 19:13:17,876 [Worker-185: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:18,276 [Worker-185: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:22,994 [Worker-186: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 19:13:24,225 [Worker-186: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:24,532 [Worker-186: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:30,888 [Worker-186: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-17 19:13:32,819 [Worker-186: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:13:33,296 [Worker-186: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:18:53,115 [Worker-193: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:18:53,118 [Worker-193: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 19:18:53,139 [Worker-193: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 19:18:53,139 [Worker-193: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-17 19:19:04,069 [Worker-187: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 19:19:04,153 [Worker-187: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-17 20:51:04,963 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 20:51:04,963 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-17 20:51:04,963 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-17 20:51:04,963 [Worker-207: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-19 19:40:14,277 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-19 19:40:16,696 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 19:40:16,742 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-19 19:40:16,774 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-19 19:40:16,789 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:03:03,746 [Worker-6: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-20 15:03:07,007 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:03:07,038 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:03:07,069 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:03:07,069 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:03:43,324 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:03:43,339 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:03:43,339 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:03:43,339 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:15:41,999 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:15:42,003 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:15:42,007 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:15:42,008 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:15:43,592 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:15:43,594 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:15:43,600 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:15:43,601 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:16:02,960 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:02,961 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:16:02,965 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:02,966 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:16:21,222 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:21,223 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:16:21,226 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:21,226 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:16:51,549 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:51,550 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:16:51,554 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:51,555 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:16:52,654 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:52,656 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:16:52,663 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:16:52,664 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:18:35,430 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:18:35,431 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:18:35,434 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:18:35,435 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:10,278 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:10,279 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:10,282 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:10,283 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:14,503 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:14,505 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:14,508 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:14,509 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:18,425 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:18,426 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:18,430 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:18,430 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:28,796 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:28,797 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:28,800 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:28,800 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:31,744 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:31,745 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:31,749 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:31,750 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:19:39,696 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:39,697 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:19:39,699 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:19:39,700 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:20:12,810 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:12,811 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:20:12,816 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:12,816 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:20:15,870 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:15,872 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:20:15,875 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:15,876 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:20:31,950 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:31,951 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:20:31,955 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:31,955 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:20:54,806 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:54,808 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:20:54,811 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:54,812 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:20:56,734 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:56,735 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:20:56,738 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:20:56,739 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:21:27,773 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:21:27,774 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:21:27,778 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:21:27,779 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:25:16,953 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:25:16,954 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:25:16,958 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:25:16,959 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:25:52,448 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:25:52,449 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:25:52,453 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:25:52,454 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:26:02,558 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:02,559 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:26:02,562 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:02,563 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:26:17,760 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:17,762 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:26:17,765 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:17,766 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 15:26:19,558 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:19,559 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 15:26:19,561 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 15:26:19,561 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-20 20:53:23,789 [Worker-9: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-20 20:53:31,089 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 20:53:31,121 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-20 20:53:31,167 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-20 20:53:31,245 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:25,177 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:25,209 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:25,214 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:25,217 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:28,836 [Worker-20: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-23 11:26:28,916 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:28,918 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 11:26:28,946 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:28,946 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:30,228 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:30,228 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 11:26:30,244 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:30,244 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:31,349 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:31,349 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 11:26:31,396 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:31,396 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:32,532 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:32,547 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 11:26:32,578 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:32,578 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:33,866 [Worker-20: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-23 11:26:33,983 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:33,983 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-23 11:26:33,983 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:33,983 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:35,524 [Worker-20: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-23 11:26:35,602 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:35,602 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-23 11:26:35,664 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:35,664 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 11:26:37,069 [Worker-20: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-23 11:26:37,194 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:37,194 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-23 11:26:37,328 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 11:26:37,328 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:54:39,507 [Worker-138: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-23 17:54:39,569 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:54:39,572 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:54:39,577 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:54:39,577 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:55:14,689 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:14,692 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:55:14,694 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:14,697 [Worker-137: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:55:29,583 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:29,585 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:55:29,588 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:29,588 [Worker-140: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:55:42,566 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:42,566 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:55:42,571 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:55:42,571 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:59:09,532 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:59:09,532 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:59:09,534 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:59:09,537 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 17:59:14,392 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:59:14,392 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 17:59:14,397 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 17:59:14,397 [Worker-148: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 18:00:19,282 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:19,284 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 18:00:19,287 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:19,289 [Worker-141: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 18:00:23,804 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:23,804 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 18:00:23,809 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:23,811 [Worker-146: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 18:00:27,678 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:27,681 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 18:00:27,683 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:27,683 [Worker-150: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 18:00:35,583 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:35,583 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 18:00:35,585 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:00:35,585 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 18:01:17,168 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:01:17,168 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 18:01:17,173 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 18:01:17,173 [Worker-149: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 20:49:54,523 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:49:54,524 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 20:49:54,526 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:49:54,527 [Worker-167: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 20:51:56,389 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:51:56,391 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 20:51:56,394 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:51:56,394 [Worker-157: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 20:53:24,614 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:53:24,615 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-23 20:53:24,618 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-23 20:53:24,618 [Worker-175: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:17:22,566 [Worker-12: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 09:17:25,951 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:17:26,014 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:17:26,045 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:17:26,045 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:18:49,287 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:18:49,287 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:18:49,302 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:18:49,302 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:03,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:03,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:03,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:03,264 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:05,199 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:05,199 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:05,199 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:05,199 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:15,573 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:15,573 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:15,588 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:15,588 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:29,644 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:29,659 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:29,659 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:29,659 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:32,155 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:32,155 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:32,171 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:32,171 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:34,277 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:34,277 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:34,277 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:34,277 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:39,441 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:39,441 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:39,441 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:39,441 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:41,859 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:41,859 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:41,859 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:41,859 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:45,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:45,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:45,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:45,322 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:46,804 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:46,804 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:46,804 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:46,804 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:19:55,072 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:55,072 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:19:55,072 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:19:55,072 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:04,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:04,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:04,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:04,572 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:05,805 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:05,805 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:05,820 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:05,820 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:08,644 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:08,644 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:08,644 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:08,644 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:12,731 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:12,731 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:12,731 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:12,731 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:15,851 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:15,851 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:15,867 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:15,867 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:17,146 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:17,162 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:17,162 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:17,162 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:20:22,341 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:22,341 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:20:22,341 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:20:22,341 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:22:19,540 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:19,540 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:22:19,540 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:19,540 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:22:21,631 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:21,631 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:22:21,631 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:21,631 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:22:40,694 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:40,694 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:22:40,694 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:40,694 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:22:42,784 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:42,784 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:22:42,784 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:42,784 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 09:22:45,998 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:45,998 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 09:22:45,998 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 09:22:45,998 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 10:31:14,456 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:31:14,457 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 10:31:14,459 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:31:14,460 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 10:32:11,391 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:11,391 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 10:32:11,394 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:11,394 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 10:32:39,024 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:39,025 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 10:32:39,027 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:39,028 [Worker-34: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 10:32:41,193 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:41,194 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 10:32:41,197 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 10:32:41,198 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 10:33:28,216 [Worker-46: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 10:33:30,730 [Worker-47: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:30,992 [Worker-47: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:36,541 [Worker-43: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 10:33:36,920 [Worker-43: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:37,147 [Worker-43: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:41,804 [Worker-45: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 10:33:42,371 [Worker-43: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 10:33:42,481 [Worker-45: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:42,796 [Worker-45: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:45,592 [Worker-50: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 10:33:45,905 [Worker-50: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-24 13:51:16,917 [Worker-81: Creating project "microservicecloud-consumer-dept-feign"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:51:17,857 [Worker-81: Creating project "microservicecloud-consumer-dept-feign"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-feign/src/main/java
+2019-03-24 13:51:17,857 [Worker-81: Creating project "microservicecloud-consumer-dept-feign"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-feign/src/main/resources
+2019-03-24 13:51:17,867 [Worker-81: Creating project "microservicecloud-consumer-dept-feign"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-feign/src/test/java
+2019-03-24 13:51:17,867 [Worker-81: Creating project "microservicecloud-consumer-dept-feign"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-feign/src/test/resources
+2019-03-24 13:51:20,239 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:20,242 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:20,247 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:20,247 [Worker-86: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:23,033 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\pom.xml.
+2019-03-24 13:51:23,697 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8001\pom.xml.
+2019-03-24 13:51:24,776 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:25,173 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8002\pom.xml.
+2019-03-24 13:51:25,202 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:25,485 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8003\pom.xml.
+2019-03-24 13:51:25,515 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:25,765 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-80:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-80\pom.xml.
+2019-03-24 13:51:25,787 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:25,977 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7001\pom.xml.
+2019-03-24 13:51:26,234 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7002\pom.xml.
+2019-03-24 13:51:26,445 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7003\pom.xml.
+2019-03-24 13:51:26,765 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api\pom.xml.
+2019-03-24 13:51:26,954 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:51:31,141 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:31,141 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:31,143 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:31,146 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:32,380 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:32,434 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:32,437 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:32,439 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:32,442 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:32,709 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:32,709 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:32,711 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:32,714 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:33,586 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:33,586 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:51:33,691 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:33,691 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:34,735 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:34,735 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:51:34,767 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:34,767 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:35,812 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:35,812 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:51:35,860 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:35,862 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:37,334 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:37,421 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:37,421 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 13:51:37,511 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:37,511 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:38,920 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:39,030 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:39,030 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 13:51:39,065 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:39,068 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:40,469 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:51:40,547 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:40,547 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 13:51:40,612 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:51:40,612 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:51:47,855 [Worker-88: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:52:29,634 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:52:29,634 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:52:29,636 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:52:29,639 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:53:02,399 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:53:02,399 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:53:02,401 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:53:02,401 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:53:25,601 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:53:25,603 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:53:25,606 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:53:25,608 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:13,445 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:55:13,900 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:55:14,150 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:14,150 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:14,152 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:14,152 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:15,437 [Worker-80: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:55:15,892 [Worker-80: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:55:16,250 [Worker-80: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:55:16,507 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:16,507 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:16,510 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:16,510 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:30,707 [Worker-83: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:55:30,752 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:30,752 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:30,757 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:30,757 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:31,873 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:31,873 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:31,875 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:31,878 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:36,305 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:36,305 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:36,310 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:36,310 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:37,858 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:37,858 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:37,860 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:37,860 [Worker-83: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:55:38,918 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:38,918 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:55:38,920 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:55:38,920 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:56:11,456 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:11,458 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:56:11,461 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:11,461 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:56:17,919 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:17,921 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:56:17,924 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:17,924 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:56:27,334 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:27,334 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:56:27,337 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:56:27,337 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:57:43,103 [Worker-81: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:57:44,343 [Worker-81: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:57:44,573 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:57:44,576 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:57:44,576 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:57:44,576 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:57:45,518 [Worker-87: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:57:45,776 [Worker-85: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:57:45,911 [Worker-87: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:57:46,143 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:57:46,143 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 13:57:46,146 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:57:46,146 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:58:41,747 [Worker-88: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 13:58:42,185 [Worker-80: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:58:42,336 [Worker-88: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 13:58:42,526 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:58:42,526 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 13:58:42,526 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 13:58:42,528 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:17,230 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:17,230 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:17,233 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:17,233 [Worker-89: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:30,810 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:30,810 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:30,813 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:30,813 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:36,970 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:36,973 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 14:02:36,973 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 14:02:36,973 [Worker-93: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:04:52,738 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:04:52,739 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:04:52,741 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:04:52,741 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:05:22,187 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:05:22,188 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:05:22,189 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:05:22,190 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:05:23,768 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:05:23,769 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 15:05:23,770 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 15:05:23,771 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:27,906 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-24 20:25:30,256 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\pom.xml.
+2019-03-24 20:25:30,838 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api\pom.xml.
+2019-03-24 20:25:31,554 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-80:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-80\pom.xml.
+2019-03-24 20:25:31,780 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:31,943 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-consumer-dept-feign:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-consumer-dept-feign\pom.xml.
+2019-03-24 20:25:31,961 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:32,143 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7001\pom.xml.
+2019-03-24 20:25:32,391 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7002\pom.xml.
+2019-03-24 20:25:32,571 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-eureka-7003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-eureka-7003\pom.xml.
+2019-03-24 20:25:33,116 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8001:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8001\pom.xml.
+2019-03-24 20:25:33,450 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:33,713 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8002:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8002\pom.xml.
+2019-03-24 20:25:33,736 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:33,958 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.atguigu.springcloud:microservicecloud-provider-dept-8003:0.0.1-SNAPSHOT @ E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-provider-dept-8003\pom.xml.
+2019-03-24 20:25:33,979 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:36,265 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-api/src/main/java
+2019-03-24 20:25:36,266 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-api/src/main/resources
+2019-03-24 20:25:36,267 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-api/src/test/java
+2019-03-24 20:25:36,267 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-api/src/test/resources
+2019-03-24 20:25:36,423 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-80/src/main/java
+2019-03-24 20:25:36,424 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-80/src/main/resources
+2019-03-24 20:25:36,424 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-80/src/test/java
+2019-03-24 20:25:36,425 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-80/src/test/resources
+2019-03-24 20:25:36,627 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-feign/src/main/java
+2019-03-24 20:25:36,627 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-feign/src/main/resources
+2019-03-24 20:25:36,628 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-consumer-dept-feign/src/test/java
+2019-03-24 20:25:36,628 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-consumer-dept-feign/src/test/resources
+2019-03-24 20:25:37,104 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7001/src/main/java
+2019-03-24 20:25:37,104 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7001/src/main/resources
+2019-03-24 20:25:37,106 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7001/src/test/java
+2019-03-24 20:25:37,106 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7001/src/test/resources
+2019-03-24 20:25:37,501 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7002/src/main/java
+2019-03-24 20:25:37,501 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7002/src/main/resources
+2019-03-24 20:25:37,502 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7002/src/test/java
+2019-03-24 20:25:37,502 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7002/src/test/resources
+2019-03-24 20:25:37,732 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7003/src/main/java
+2019-03-24 20:25:37,732 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7003/src/main/resources
+2019-03-24 20:25:37,733 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-eureka-7003/src/test/java
+2019-03-24 20:25:37,733 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-eureka-7003/src/test/resources
+2019-03-24 20:25:37,981 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8001/src/main/java
+2019-03-24 20:25:37,981 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8001/src/main/resources
+2019-03-24 20:25:37,982 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8001/src/test/java
+2019-03-24 20:25:37,982 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8001/src/test/resources
+2019-03-24 20:25:38,434 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8002/src/main/java
+2019-03-24 20:25:38,434 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8002/src/main/resources
+2019-03-24 20:25:38,435 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8002/src/test/java
+2019-03-24 20:25:38,435 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8002/src/test/resources
+2019-03-24 20:25:38,815 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8003/src/main/java
+2019-03-24 20:25:38,815 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8003/src/main/resources
+2019-03-24 20:25:38,816 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservicecloud-provider-dept-8003/src/test/java
+2019-03-24 20:25:38,816 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservicecloud-provider-dept-8003/src/test/resources
+2019-03-24 20:25:39,961 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2019-03-24 20:25:41,788 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:41,789 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:41,792 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:41,792 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:43,469 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:43,518 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:43,518 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:25:43,543 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:43,544 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:44,295 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:44,347 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:44,347 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:25:44,351 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:44,352 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:47,017 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:47,018 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:25:47,033 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:47,033 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:50,498 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:50,499 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:25:50,502 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:50,503 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:53,186 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:53,187 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:25:53,192 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:53,192 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:55,646 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:55,791 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:55,793 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 20:25:55,801 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:55,802 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:56,918 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:57,027 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:57,027 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 20:25:57,037 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:57,038 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:25:57,970 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:25:58,091 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:58,092 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-24 20:25:58,098 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:25:58,099 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,210 [Worker-109: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-24 20:26:00,246 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,248 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,251 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,251 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,339 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,339 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,342 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,342 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,374 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,374 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:00,377 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:00,378 [Worker-109: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:02,275 [Worker-109: Launching Executing clean in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api
+2019-03-24 20:26:02,276 [Worker-109: Launching Executing clean in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-03-24 20:26:07,781 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:07,782 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:07,784 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:07,785 [Worker-113: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:21,334 [Worker-110: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api
+2019-03-24 20:26:21,334 [Worker-110: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-24 20:26:25,817 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:25,818 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:26:25,819 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:26:25,820 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:27:52,557 [Worker-116: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api
+2019-03-24 20:27:52,557 [Worker-116: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-24 20:32:08,310 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:08,311 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:32:08,312 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:08,312 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:32:41,373 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:41,374 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:32:41,378 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:41,378 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:32:48,717 [Worker-121: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Spring Cloud\Spring Cloud Study\microservicecloud\microservicecloud-api
+2019-03-24 20:32:48,717 [Worker-121: Launching Executing install in E__Spring Cloud_Spring Cloud Study_microservicecloud_microservicecloud-api] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2019-03-24 20:32:54,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:54,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:32:54,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:32:54,512 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:35:47,374 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:35:47,375 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:35:47,378 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:35:47,378 [Worker-118: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:36:21,515 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:21,516 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:36:21,518 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:21,518 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:36:49,523 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:49,524 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:36:49,528 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:49,528 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:36:59,412 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:59,413 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:36:59,415 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:36:59,416 [Worker-125: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:37:54,056 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:37:54,057 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:37:54,059 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:37:54,059 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:38:23,212 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:38:23,213 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:38:23,216 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:38:23,216 [Worker-126: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:38:26,728 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:38:26,729 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:38:26,731 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:38:26,732 [Worker-124: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:40:17,097 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:17,097 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:40:17,099 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:17,100 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:40:52,975 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:52,976 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:40:52,978 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:52,979 [Worker-129: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:40:54,824 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:54,825 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:40:54,827 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:40:54,827 [Worker-119: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-24 20:41:31,716 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:41:31,717 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-24 20:41:31,719 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-24 20:41:31,719 [Worker-130: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-26 18:57:22,670 [Worker-2: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-26 18:57:27,863 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 18:57:27,948 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-26 18:57:27,988 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 18:57:27,989 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:27,289 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:27,293 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:27,296 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:27,296 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:28,941 [Worker-261: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:06:29,034 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:29,035 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-27 10:06:29,041 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:29,042 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:31,742 [Worker-261: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:06:31,909 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:31,911 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-27 10:06:31,985 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:31,986 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:33,982 [Worker-261: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:06:34,253 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:34,254 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-27 10:06:34,291 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:34,292 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:06:36,023 [Worker-261: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:06:36,241 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:36,242 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-03-27 10:06:36,298 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:06:36,299 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:07:04,365 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:07:04,372 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:07:04,375 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 10:07:04,376 [Worker-261: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-27 10:08:06,115 [Worker-260: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:08:10,576 [Worker-262: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:08:11,126 [Worker-262: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:08:11,747 [Worker-263: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:08:13,137 [Worker-262: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:08:14,103 [Worker-262: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:08:15,039 [Worker-264: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:08:18,246 [Worker-260: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:08:18,611 [Worker-260: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:10:00,535 [Worker-268: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:10:02,498 [Worker-271: Launching microservicecloud-consumer-dept-feign - DeptConsumer80_Feign_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:10:02,603 [Worker-271: Launching microservicecloud-consumer-dept-feign - DeptConsumer80_Feign_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:12:31,514 [Worker-267: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 10:12:34,939 [Worker-269: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 10:12:35,035 [Worker-269: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:43:03,857 [Worker-281: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:43:03,950 [Worker-281: Launching microservicecloud-consumer-dept-80 - DeptConsumer80_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:07,595 [Worker-289: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 12:51:09,603 [Worker-289: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:09,874 [Worker-289: Launching microservicecloud-provider-dept-8001 - DeptProvider8001_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:12,296 [Worker-289: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 12:51:14,646 [Worker-292: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:14,983 [Worker-292: Launching microservicecloud-provider-dept-8002 - DeptProvider8002_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:24,512 [Worker-290: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 12:51:27,545 [Worker-291: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:27,758 [Worker-291: Launching microservicecloud-provider-dept-8003 - DeptProvider8003_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:46,131 [Worker-292: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier  to /microservicecloud-api/target/classes
+2019-03-27 12:51:49,991 [Worker-294: Launching microservicecloud-consumer-dept-feign - DeptConsumer80_Feign_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes
+2019-03-27 12:51:50,104 [Worker-294: Launching microservicecloud-consumer-dept-feign - DeptConsumer80_Feign_App] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/microservicecloud-api: com.atguigu.springcloud:microservicecloud-api:0.0.1-SNAPSHOT with classifier null to /microservicecloud-api/target/classes

@@ -7,7 +7,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-eureka-7003"/>
+			<item value="microservicecloud-consumer-dept-feign"/>
 			<item value="microservicecloud"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,6 +26,19 @@
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\Spring Cloud\Spring Cloud Study\microservicecloud"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
@@ -39,6 +52,10 @@
 	</section>
 	<section name="MavenModuleWizardParentPage">
 		<list key="moduleName">
+			<item value="microservicecloud-consumer-dept-feign"/>
+			<item value="1212312312"/>
+			<item value="microservicecloud-provider-dept-8003"/>
+			<item value="microservicecloud-provider-dept-8002"/>
 			<item value="microservicecloud-eureka-7003"/>
 			<item value="springframework"/>
 			<item value="microservicecloud-eureka-7002"/>
@@ -70,13 +87,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.microservicecloud.eureka.7003"/>
+			<item value="org.microservicecloud.consumer.dept.feign"/>
 		</list>
 		<list key="groupId">
 			<item value="com.atguigu.springcloud"/>
 		</list>
 		<list key="artifactId">
-			<item value="microservicecloud-eureka-7003"/>
+			<item value="microservicecloud-consumer-dept-feign"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
